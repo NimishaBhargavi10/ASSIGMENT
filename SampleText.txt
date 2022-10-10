@@ -1,19 +1,35 @@
-Paper ID : 55545d2c73cce5d3f2ad42f04b6cbcee5a2d4144 	Article : The work of art in the age of mechanical reproduction
+Paper ID : 55545d2c73cce5d3f2ad42f04b6cbcee5a2d4144 
+Article : The work of art in the age of mechanical reproduction
 Author(s) : ['W. Benjamin']
 Year : 2018 
-Abstract : One of the most important works of cultural theory ever written, Walter Benjamin's groundbreaking essay explores how the age of mass media means audiences can listen to or see a work of art repeatedly - and what the troubling 
-social and political implications of this are. Throughout history, some books have changed the world. They have transformed
- the way we see ourselves - and each other. They have inspired debate, dissent, war and revolution. They have enlightened,
- outraged, provoked and comforted. They have enriched lives - and destroyed them. Now Penguin brings you the works of the 
+Abstract : One of the most important works of cultural theory ever written,
+Walter Benjamin's groundbreaking essay explores how the age of mass media means audiences
+can listen to or see a work of art repeatedly - and what the troubling 
+social and political implications of this are. Throughout history, some books have changed the world. 
+They have transformed
+ the way we see ourselves - and each other. They have inspired debate, dissent, war and revolution. 
+ They have enlightened,
+ outraged, provoked and comforted. They have enriched lives - and destroyed them. 
+ Now Penguin brings you the works of the 
 great thinkers, pioneers, radicals and visionaries whose ideas shook civilization and helped make us who we are.
 
-Paper ID : b3c785b99ec147049caa47f707f337b717705970 	Article : SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
+Paper ID : b3c785b99ec147049caa47f707f337b717705970 	Article : SLIC Superpixels
+Compared to State-of-the-Art Superpixel Methods
 Author(s) : ['R. Achanta', 'Appu Shaji', 'Kevin Smith', 'Aurélien Lucchi', 'P. Fua', 'S. Süsstrunk']
 Year : 2012 
 Abstract : Computer vision applications have come to rely increasingly on superpixels in recent years, but it is not always
- clear what constitutes a good superpixel algorithm. In an effort to understand the benefits and drawbacks of existing methods, we empirically compare five state-of-the-art superpixel algorithms for their ability to adhere to image boundaries, speed, memory efficiency, and their impact on segmentation performance. We then introduce a new superpixel algorithm, simple linear iterative clustering (SLIC), which adapts a k-means clustering approach to efficiently generate superpixels. Despite its simplicity, SLIC adheres to boundaries as well as or better than previous methods. At the same time, it is faster and more memory efficient, improves segmentation performance, and is straightforward to extend to supervoxel generation.
+ clear what constitutes a good superpixel algorithm. In an effort to understand the benefits and drawbacks of existing methods,
+ we empirically compare five state-of-the-art superpixel algorithms for their ability to adhere to image boundaries, speed, 
+ memory efficiency, and their impact on segmentation performance. We then introduce a new superpixel algorithm, simple linear iterative clustering (SLIC),
+ which adapts a k-means clustering approach to efficiently generate superpixels. Despite its simplicity, SLIC adheres to boundaries as well as or 
+ better than previous methods. At the same time, it is faster and more memory efficient, improves segmentation performance, and is straightforward to extend to supervoxel generation.
 
 Paper ID : af3f67b6639a50fd094e1467a2f3b6b8fef7c7c2 	Article : Transformers: State-of-the-Art Natural Language Processing
 Author(s) : ['Thomas Wolf', 'Lysandre Debut', 'Victor Sanh', 'Julien Chaumond', 'Clement Delangue', 'Anthony Moi', 'Pierric Cistac', 'T. Rault', 'Rémi Louf', 'Morgan Funtowicz', 'Jamie Brew']
 Year : 2020 
-Abstract : Recent progress in natural language processing has been driven by advances in both model architecture and model pretraining. Transformer architectures have facilitated building higher-capacity models and pretraining has made it possible to effectively utilize this capacity for a wide variety of tasks. Transformers is an open-source library with the goal of opening up these advances to the wider machine learning community. The library consists of carefully engineered state-of-the art Transformer architectures under a unified API. Backing this library is a curated collection of pretrained models made by and available for the community. Transformers is designed to be extensible by researchers, simple for practitioners, and fast and robust in industrial deployments. The library is available at https://github.com/huggingface/transformers.
+Abstract : Recent progress in natural language processing has been driven by advances in both model architecture and model pretraining.
+Transformer architectures have facilitated building higher-capacity models and pretraining has made it possible to effectively utilize this
+capacity for a wide variety of tasks. Transformers is an open-source library with the goal of opening up these advances to the wider machine learning community.
+The library consists of carefully engineered state-of-the art Transformer architectures under a unified API. Backing this library is a curated collection 
+of pretrained models made by and available for the community. Transformers is designed to be extensible by researchers, simple for practitioners,
+and fast and robust in industrial deployments. The library is available at https://github.com/huggingface/transformers.
